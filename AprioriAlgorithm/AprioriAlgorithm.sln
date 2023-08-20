@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprioriAlgorithm", "AprioriAlgorithm\AprioriAlgorithm.csproj", "{06B38174-FA8F-45B4-8821-A3304B7579BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06B38174-FA8F-45B4-8821-A3304B7579BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B38174-FA8F-45B4-8821-A3304B7579BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B38174-FA8F-45B4-8821-A3304B7579BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B38174-FA8F-45B4-8821-A3304B7579BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {398E8410-4776-469F-BD13-6E7872961571}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\net6.0\AprioriAlgorithm.exe
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\net6.0\AprioriAlgorithm.deps.json
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\net6.0\AprioriAlgorithm.runtimeconfig.json
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\net6.0\AprioriAlgorithm.dll
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\net6.0\AprioriAlgorithm.pdb
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\net6.0\AprioriAlgorithm.csproj.AssemblyReference.cache
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\net6.0\AprioriAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\net6.0\AprioriAlgorithm.AssemblyInfoInputs.cache
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\net6.0\AprioriAlgorithm.AssemblyInfo.cs
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\net6.0\AprioriAlgorithm.csproj.CoreCompileInputs.cache
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\net6.0\AprioriAlgorithm.dll
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\net6.0\refint\AprioriAlgorithm.dll
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\net6.0\AprioriAlgorithm.pdb
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\net6.0\AprioriAlgorithm.genruntimeconfig.cache
+E:\VS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\net6.0\ref\AprioriAlgorithm.dll
